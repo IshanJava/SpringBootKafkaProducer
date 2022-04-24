@@ -1,0 +1,2 @@
+Please install Kafka on your system and run the zookeeper and
+kafka server for the consumer and producer application to work .
